@@ -2,7 +2,7 @@
 /**
  * HoneyBadger functions and definitions
  *
- * @package HoneyBadger
+ * @package HoneyBadger Abhijit test
  */
 
 /**
